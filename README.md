@@ -1,6 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Days matter
+This mini project calculates how many days are there since the given date
 
-## References
+## Guide
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Run: `cargo run -- difference 'date1_year' 'date1_month' 'date1_day' 'current_year' 'current_month' 'current_day'`
